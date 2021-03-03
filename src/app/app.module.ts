@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+//Test commit
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PropertyCardComponent } from './components/property-card/property-card.component';
